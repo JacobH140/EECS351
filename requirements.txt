@@ -1,0 +1,9 @@
+pyo~=1.0.4
+mido~=1.2.10
+setuptools~=58.0.4
+music21~=7.1.0
+transformers~=4.18.0.dev0
+nltk~=3.7
+lark~=1.1.2
+pandas~=1.4.1
+pyfiglet~=0.8.post1
